@@ -1,6 +1,6 @@
 {
-  "version": "0.4.7",
-  "downloadUrl": "https://github.com/945019099-art/-image2/releases/download/v0.4.7/GPTImage2-Smart-Workspace-0.4.7.exe",
-  "sha256": "d2a91106202efa734043c3381815a4d15b6afcfb49935e037dc08379ba363c46",
-  "notes": "Cleaned installer packaging and desktop artifacts."
+  "version": "0.4.8",
+  "downloadUrl": "https://github.com/945019099-art/-image2/releases/download/v0.4.8/GPTImage2-Smart-Workspace-0.4.8.exe",
+  "sha256": "7a9498435d94ba952134e4f640615eb2a3ca3a6c2e0bf19e302d31fd8443396d",
+  "notes": "Fixed installer file-lock handling during automatic updates."
 }
